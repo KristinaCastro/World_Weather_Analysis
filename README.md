@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-### 
+### Weather data across cities worldwide to recommend ideal hotels based on clients' weather preferences:
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/81998045/142362566-fd9499dc-ac29-404b-a6f3-c7aac539e45c.png)
 
 
